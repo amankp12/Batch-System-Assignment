@@ -15,7 +15,6 @@ body {
     font-size: 20px;
     padding: 2rem 1rem;
     gap: 2rem;
-    background-color: #0ef70e7a;
 }
 
 .logo {
@@ -564,6 +563,7 @@ body {
     font-size: 18px;
     text-align: center;
 }
+
 .btn1 {
     color: white;
     background-color: black;
